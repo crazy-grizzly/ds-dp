@@ -1,0 +1,1 @@
+### This repo contains examples of data structures and design patterns in TypeScript
